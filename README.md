@@ -34,9 +34,8 @@ python client.py
 ```
 🖼️ Exemplo de uso
 
-Servidor está escutando na porta 12345...
-[+] João entrou no chat!
-[-] João saiu do chat.
+![image](https://github.com/user-attachments/assets/2dd7463f-519b-45f7-9c0c-e66143b3b816)
+
 
 🧠 Estrutura
 server.py: gerencia conexões, mensagens e difusão para todos os clientes.
