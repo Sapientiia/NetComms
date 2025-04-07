@@ -44,11 +44,11 @@ server.py: gerencia conexões, mensagens e difusão para todos os clientes.
 client.py: conecta ao servidor e permite enviar/receber mensagens.
 
 🧪 Melhorias futuras
-Interface gráfica (GUI) com Tkinter ou PyQt.
+Interface gráfica (GUI) com Tkinter ou PyQt;
 
-Suporte a mensagens privadas.
+Suporte a mensagens privadas;
 
-Histórico de mensagens.
+Histórico de mensagens;
 
 Deploy em rede externa ou pela internet.
 
