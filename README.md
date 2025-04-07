@@ -34,7 +34,8 @@ python client.py
 ```
 🖼️ Exemplo de uso
 
-![image](https://github.com/user-attachments/assets/2dd7463f-519b-45f7-9c0c-e66143b3b816)
+![image](https://github.com/user-attachments/assets/e62119d4-5913-4d49-ab5f-645ca8fe3ea7)
+
 
 
 🧠 Estrutura
