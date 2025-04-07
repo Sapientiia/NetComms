@@ -18,3 +18,43 @@ Nenhuma biblioteca externa é necessária.
 
 ### 1. Clone o repositório
 
+```bash
+git clone https://github.com/Sapientiia/NetComms.git
+cd NetComms
+```
+### 2. Inicie o servidor
+
+```bash
+python server.py
+```
+### 3. Inicie o cliente (em outro terminal ou máquina)
+
+```bash
+python client.py
+```
+🖼️ Exemplo de uso
+
+Servidor está escutando na porta 12345...
+[+] João entrou no chat!
+[-] João saiu do chat.
+
+🧠 Estrutura
+server.py: gerencia conexões, mensagens e difusão para todos os clientes.
+
+client.py: conecta ao servidor e permite enviar/receber mensagens.
+
+🧪 Melhorias futuras
+Interface gráfica (GUI) com Tkinter ou PyQt.
+
+Suporte a mensagens privadas.
+
+Histórico de mensagens.
+
+Deploy em rede externa ou pela internet.
+
+💡 Dica: Para acessar de fora do localhost (ex: outro dispositivo ou internet), você pode usar ferramentas como:
+
+ngrok → ngrok tcp 12345;
+
+LocalTunnel ou alternativas.
+
